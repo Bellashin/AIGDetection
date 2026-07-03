@@ -23,7 +23,7 @@ AIGDetection is a deep learning-based project that detects whether a video is AI
 * Torchvision
 
 ## Project Structure
-'''
+```
 AIGDetection/
 ├── data/
 ├── models/
@@ -33,7 +33,7 @@ AIGDetection/
 ├── checkpoints/
 ├── README.md
 └── requirements.txt
-'''
+```
 ## Future Plans
 
 * Improve detection accuracy
